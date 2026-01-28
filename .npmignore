@@ -1,0 +1,16 @@
+# Development files
+apps/
+examples/
+.github/
+pnpm-workspace.yaml
+pnpm-lock.yaml
+tsconfig.json
+
+# Source files (we include them in files field)
+*.ts
+!dist/**/*.d.ts
+
+# Misc
+.DS_Store
+node_modules/
+*.log
