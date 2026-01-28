@@ -1,5 +1,7 @@
 # Neural Animation (WebGL + TS)
 
+[https://dmjsdev.github.io/neural-animation/](https://dmjsdev.github.io/neural-animation/)
+
 Configurable neural shader animation for a user-provided `<canvas>` element.
 
 ## Installation
